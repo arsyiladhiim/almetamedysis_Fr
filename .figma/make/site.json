@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers a complete frontend solution for Laravel Blade, enabling developers to efficiently create and manage web pages with ease.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
